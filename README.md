@@ -9,6 +9,4 @@ I found no avatar changer on github so i made my own and decided to share it :>
 Done!
 
 # Disclaimer
-**FAIR USE**
-
-Copyright Disclaimer under section 107 of the Copyright Act 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research.
+You may get banned if abused/spammed using this code.
